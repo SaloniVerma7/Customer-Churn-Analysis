@@ -89,5 +89,8 @@ https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Gender%20wise%
 
 https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churn%20by%20senior%20citizen.png
 
+https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Present%20of%20churn.png
+
+
 
 
