@@ -91,6 +91,10 @@ https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churn%20by%20s
 
 https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Present%20of%20churn.png
 
+https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churned%20Customer%20by%20PaymentMethod.png
+
+
+
 
 
 
