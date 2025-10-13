@@ -80,6 +80,10 @@ High-Risk Groups: Senior citizens, customers with shorter tenure, and those on m
 
 Retention Strategy: Offer loyalty discounts, long-term contract incentives, and better customer support for vulnerable groups.
 
+
 Here the snapshot of this Customer Churn Analysis Project to show the actual process!!
+
+https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churn.png
+
 
 
