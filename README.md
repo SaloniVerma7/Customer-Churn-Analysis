@@ -85,5 +85,7 @@ Here the snapshot of this Customer Churn Analysis Project to show the actual pro
 
 https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churn.png
 
+https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Gender%20wise%20churn.png
+
 
 
