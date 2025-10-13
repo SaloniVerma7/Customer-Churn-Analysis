@@ -93,7 +93,9 @@ https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Present%20of%2
 
 https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Churned%20Customer%20by%20PaymentMethod.png
 
+Few Smaller Reasons of Customers Churn --
 
+https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Reason%20of%20Customer%20Churn.png
 
 
 
