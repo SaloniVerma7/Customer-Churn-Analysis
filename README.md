@@ -14,21 +14,23 @@ Identify high-risk customer segments.
 Provide data-driven strategies to reduce churn rates and improve customer loyalty.
 
 ##  Tech Stack
-
 Python
 pandas — Data cleaning and manipulation
 numpy — Statistical analysis
 matplotlib, seaborn — Data visualization
 scikit-learn — (if included) modeling and prediction
 Jupyter Notebook — For interactive exploration and reporting
-<img width="887" height="560" alt="Screenshot 2026-02-11 163439" src="https://github.com/user-attachments/assets/921992e5-e44d-456e-ae2b-0238f7d1339d" />
 
 # how to use this code 
-
 Open the ChurnProject.ipynb file in Jupyter Notebook and upload your new customer CSV file (same format).
 Press **Shift + Enter** to run each cell or go to **Kernel → Restart & Run All** to run everything at once.
 After it finishes, scroll down to see which customers are predicted to leave.
 
+<img width="887" height="560" alt="Screenshot 2026-02-11 163439" src="https://github.com/user-attachments/assets/921992e5-e44d-456e-ae2b-0238f7d1339d" />
+<img width="1596" height="579" alt="Screenshot 2026-02-11 163510" src="https://github.com/user-attachments/assets/a20cc50b-fa2e-4638-8203-fc514dbe68ed" />
+<img width="1640" height="601" alt="Screenshot 2026-02-11 163543" src="https://github.com/user-attachments/assets/3ef63dc9-e774-4eac-8c42-97afdcd1037c" />
+<img width="1051" height="748" alt="Screenshot 2026-02-11 163622" src="https://github.com/user-attachments/assets/9d0b3529-54fb-4844-8967-91cf334afd94" />
+<img width="1200" height="577" alt="Screenshot 2026-02-11 163643" src="https://github.com/user-attachments/assets/c4bc72db-135d-4350-9798-15a4e222da80" />
 
  ## Features / Highlights
 Data Cleaning & Preprocessing
