@@ -81,7 +81,7 @@ Retention Strategy: Offer loyalty discounts, long-term contract incentives, and 
 
 
 
-https://github.com/SaloniVerma7/Customer-Churn-Analysis/blob/main/Reason%20of%20Customer%20Churn.png
+
 
 
 
