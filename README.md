@@ -21,6 +21,7 @@ numpy — Statistical analysis
 matplotlib, seaborn — Data visualization
 scikit-learn — (if included) modeling and prediction
 Jupyter Notebook — For interactive exploration and reporting
+<img width="887" height="560" alt="Screenshot 2026-02-11 163439" src="https://github.com/user-attachments/assets/921992e5-e44d-456e-ae2b-0238f7d1339d" />
 
 # how to use this code 
 
